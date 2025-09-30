@@ -5,8 +5,8 @@ Agentic Jigsaw Interaction Learning for Enhancing Visual Perception and Reasonin
 
 <h5 align="center">
 
-[![Project Page](https://img.shields.io/badge/ProjectPage-Website-green.svg?logo=github)](https://github.com/yuzeng0-0/AGILE/)
 [![AGILE-Dataset](https://img.shields.io/badge/🤗HuggingFace-%20AGILE-blue.svg)](https://huggingface.co/datasets/YuZeng260/AGILE)
+[![Project Page](https://img.shields.io/badge/ProjectPage-Website-green.svg?logo=github)](https://github.com/yuzeng0-0/AGILE/)
 
 
 ## 🔍 Introduction
