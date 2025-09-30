@@ -49,6 +49,9 @@ conda create -n agile python=3.10
 conda activate agile
 
 # Install the package
+pip install -e . 
+pip3 install -e .[vllm] 
+pip install qwen_vl_utils
 pip install pillow==11.2.1
 pip install transformers==4.51.1
 pip install vllm==0.8.2
