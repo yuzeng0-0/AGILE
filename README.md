@@ -77,7 +77,7 @@ AGILE_Data/
 
 ## 📊 Experiment
 
-On average, AGILE surpasses the base model Qwen2.5-VL-7B by 3.1% across all 9 benchmarks, providing compelling evidence that jigsaw-based training effectively enhances the model’s ability to capture visual relations and strengthen reasoning skills, thereby improving its performance on general vision downstream tasks.
+On average, **AGILE surpasses the base model Qwen2.5-VL-7B by 3.1% across all 9 benchmarks**, providing compelling evidence that jigsaw-based training effectively enhances the model’s ability to capture visual relations and strengthen reasoning skills, thereby improving its performance on general vision downstream tasks.
 
 <div>
 <center>
@@ -101,7 +101,7 @@ After supervised fine-tuning and reinforcement learning, Qwen2.5-VL-7B achieves 
 
 
 
-We showcase several jigsaw-solving behaviors, including interpreting individual pieces, validating edge alignment through cropping and zooming, and reasoning about semantic consistency. These human-like strategies highlight the emergence of advanced perceptual and reasoning capabilities.
+We showcase several jigsaw-solving behaviors, including interpreting individual pieces, validating edge alignment through cropping and zooming, and reasoning about semantic consistency. **These human-like strategies highlight the emergence of advanced perceptual and reasoning capabilities.**
 
 <div>
 <center>
@@ -113,7 +113,7 @@ We showcase several jigsaw-solving behaviors, including interpreting individual 
 
 ## 🖊️ Citation
 
-If you find AGILE useful for your research and applications, please cite using this BibTeX:
+If you find **AGILE** useful for your research and applications, please cite using this BibTeX:
 
 ```
 TODO
