@@ -34,7 +34,8 @@ Official Implement of "Agentic Jigsaw Interaction Learning for Enhancing Visual 
 
 ## 🚀 News
 
-**[2025/6/11]** Paper available on [Arxiv](https://arxiv.org/pdf/2510.01304).🔥🔥🔥
+**[2025/10/3]** Paper available on [Arxiv](https://arxiv.org/pdf/2510.01304).🔥🔥🔥
+
 **[2025/9/30]** Release [AGILE-Dataset](https://huggingface.co/datasets/YuZeng260/AGILE).🤗🤗🤗
 
 ## 🔧 Install Dependencies
