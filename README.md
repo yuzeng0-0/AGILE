@@ -5,6 +5,7 @@ Agentic Jigsaw Interaction Learning for Enhancing Visual Perception and Reasonin
 
 <h5 align="center">
 
+[![arXiv](https://img.shields.io/badge/Arxiv-2510.01304-AD1C18.svg?logo=arXiv)](https://arxiv.org/abs/2510.01304) 
 [![AGILE-Dataset](https://img.shields.io/badge/🤗HuggingFace-%20AGILE-blue.svg)](https://huggingface.co/datasets/YuZeng260/AGILE)
 [![Project Page](https://img.shields.io/badge/ProjectPage-Website-green.svg?logo=github)](https://yuzeng0-0.github.io/AGILE/)
 
@@ -33,6 +34,7 @@ Official Implement of "Agentic Jigsaw Interaction Learning for Enhancing Visual 
 
 ## 🚀 News
 
+**[2025/6/11]** Paper available on [Arxiv](https://arxiv.org/pdf/2510.01304).🔥🔥🔥
 **[2025/9/30]** Release [AGILE-Dataset](https://huggingface.co/datasets/YuZeng260/AGILE).🤗🤗🤗
 
 ## 🔧 Install Dependencies
