@@ -123,5 +123,10 @@ We showcase several jigsaw-solving behaviors, including interpreting individual 
 If you find **AGILE** useful for your research and applications, please cite using this BibTeX:
 
 ```
-TODO
+@article{zeng2025agentic,
+  title={Agentic Jigsaw Interaction Learning for Enhancing Visual Perception and Reasoning in Vision-Language Models},
+  author={Zeng, Yu and Huang, Wenxuan and Huang, Shiting and Bao, Xikun and Qi, Yukun and Zhao, Yiming and Wang, Qiuchen and Chen, Lin and Chen, Zehui and Chen, Huaian and others},
+  journal={arXiv preprint arXiv:2510.01304},
+  year={2025}
+}
 ```
