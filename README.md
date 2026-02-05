@@ -33,6 +33,7 @@ Official Implement of "Agentic Jigsaw Interaction Learning for Enhancing Visual 
 </div>
 
 ## 🚀 News
+**[2026/1/26]** Cheers to AGILE being accepted to ICLR 2026!🎉🎉🎉
 
 **[2025/10/3]** Paper available on [Arxiv](https://arxiv.org/pdf/2510.01304).🔥🔥🔥
 
