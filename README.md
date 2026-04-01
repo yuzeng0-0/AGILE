@@ -10,7 +10,7 @@ Agentic Jigsaw Interaction Learning for Enhancing Visual Perception and Reasonin
 [![Project Page](https://img.shields.io/badge/ProjectPage-Website-green.svg?logo=github)](https://yuzeng0-0.github.io/AGILE/)
 
 
-## ICLR 2026 Poster
+## 📢 ICLR 2026 Poster
 
 <div>
 <center>
